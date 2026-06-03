@@ -33,7 +33,7 @@ In-app purchases are processed by Apple. Sage never sees your payment informatio
 
 ## 6. No third-party services
 
-Sage does not integrate any third-party analytics, advertising, or tracking SDKs.
+Sage does not integrate any third-party analytics, advertising, or tracking SDKs. Sage also does not use any third-party or cloud-based AI service — all AI inference runs locally on your device. The only external connection is a one-way download of open-source model files (see Section 4); no prompts, conversations, or personal data are ever sent to any AI service or server.
 
 ## 7. Children's privacy
 
